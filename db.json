@@ -1,0 +1,132 @@
+{ 
+"customers": [ 
+        { 
+            "id": 1, 
+            "name": "Jana Khaled" ,
+            "Email": "JanaKhaled@gmail.com" ,
+            "Age": 20,
+            "image":"https://microplasticsindia.com/wp-content/uploads/2019/01/person2.jpg" 
+        }, 
+        { 
+            "id": 2, 
+            "name": "Ahmed Ali" ,
+            "Email": "AhmedAli@gmail.com" ,
+            "Age": 32 ,
+            "image":"https://vmnts.com/nueva/wp-content/uploads/2019/01/person4.jpg" 
+        }, 
+            { 
+            "id": 3, 
+            "name": "Aya Elsayed" ,
+            "Email": "AyaElSayed@gmail.com" ,
+            "Age": 20 ,
+            "image":"https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg" 
+        }, 
+        { 
+            "id": 4, 
+            "name": "Mina Adel" ,
+            "Email": "MinaAdel@gmail.com" ,
+            "Age": 22 ,
+            "image":"https://media.istockphoto.com/id/1344964515/photo/city-of-london-portrait.jpg?s=612x612&w=0&k=20&c=DyuCQ9A5Ol7MCXbVrm170-0W81ARAnJ9Lwsb7qMjBQE=" 
+        }, 
+        { 
+            "id": 5, 
+            "name": "Sarah Reda" ,
+            "Email": "SaraReda@gmail.com" ,
+            "Age": 27 ,
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAe9NZZk7nUE_anJir2Scf7tsqMHRdEpCbJg&s" 
+        }, 
+        { 
+            "id": 6, 
+            "name": "Mohamed Sayed" ,
+            "Email": "MohamedSayed@gmail.com" ,
+            "Age": 18 ,
+            "image":"https://t3.ftcdn.net/jpg/03/02/88/46/360_F_302884605_actpipOdPOQHDTnFtp4zg4RtlWzhOASp.jpg" 
+        } 
+    ], 
+    "transactions": [ 
+        { 
+            "id": 1, 
+            "customer_id": 1, 
+            "date": "2022-01-01", 
+            "place": "Bath&Body works", 
+            "amount": 1000 
+        }, 
+        { 
+            "id": 2, 
+            "customer_id": 2, 
+            "date": "2022-01-02", 
+            "place": "Resturant",
+            "amount": 2000 
+        }, 
+        { 
+            "id": 3, 
+            "customer_id": 3, 
+            "date": "2022-01-01", 
+            "place": "LC Waikiki",
+            "amount": 550 
+        }, 
+        { 
+            "id": 4, 
+            "customer_id": 4, 
+            "date": "2022-01-01", 
+            "place": "Defacto",
+            "amount": 500 
+        }, 
+        { 
+            "id": 5, 
+            "customer_id": 3, 
+            "date": "2022-01-02", 
+            "place": "Online",
+            "amount": 1300 
+        }, 
+        { 
+            "id": 6, 
+            "customer_id": 5, 
+            "date": "2022-01-01", 
+            "place": "Wave Cafe",
+            "amount": 750 
+        }, 
+        { 
+            "id": 7, 
+            "customer_id": 4, 
+            "date": "2022-01-02", 
+            "place": "Sahel",
+            "amount": 1250 
+        }, 
+        { 
+            "id": 8, 
+            "customer_id": 1, 
+            "date": "2022-01-02", 
+            "place": "Shein",
+            "amount": 1250 
+        }, 
+        { 
+            "id": 9, 
+            "customer_id": 5, 
+            "date": "2022-01-01", 
+            "place": "Shein",
+            "amount": 2500 
+        }, 
+        { 
+            "id": 10, 
+            "customer_id": 5, 
+            "date": "2022-01-02", 
+            "place": "2B",
+            "amount": 875 
+        },
+        { 
+            "id": 11, 
+            "customer_id": 1, 
+            "date": "2022-01-02", 
+            "place": "Defacto",
+            "amount": 10000 
+        },
+        { 
+            "id": 12, 
+            "customer_id": 1, 
+            "date": "2022-01-02",
+            "place": "Chilis", 
+            "amount": 5000 
+        } 
+    ] 
+} 

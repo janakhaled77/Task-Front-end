@@ -1,0 +1,10 @@
+img{
+        width: 150px;
+        height: 150px;       
+    }
+    .pointer{
+    cursor: pointer;
+    }
+.back{
+    width: fit-content;
+}
